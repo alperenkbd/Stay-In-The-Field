@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 601f6bfd4198e65488be4d1f7d8f73a6
+timeCreated: 1564401170
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {fileID: 1748075076480910, guid: 6a5d5881c6a72814db10335bfbd9ed2b, type: 2}
+  - bounce: {fileID: 1237136167515208, guid: 8cec11d33dc145346b0a84c4d3a44476, type: 2}
+  - snakeTail: {fileID: 1836762068039782, guid: 85c92f39ebba23a4d8f77a182638caa6,
+      type: 2}
+  - spawner: {fileID: 1987874165441860, guid: da0bdb963c6ac86448e07be1a482c30e, type: 2}
+  - countobject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
